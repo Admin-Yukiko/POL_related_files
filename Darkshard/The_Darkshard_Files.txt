@@ -1,6 +1,6 @@
 Contained here-in are the Darkshard custom maps and graphic enhancements created by Carl Hamilton. They are organized as they were on the Darkshard Dev drive which Carl used to sell. He has graciously granted permission to the POL Community to make them publicly available for free. We wish to thank him for the generous gift to the POL Community and the wider UO community.
 
-Note: We, the POL Developers, cannot provide support for the use of these files. They are presented as is. We are not responsible for any data corruption of game files or data by using the files.
+Note: We, the POL Developers, cannot provide support for the use of these files. They are presented as is. We are not responsible for any corruption of game files or data by using the files.
 
 That being said, I, Yukiko, and many other shard developers, have used Carl's maps in my server with no problems.
 
